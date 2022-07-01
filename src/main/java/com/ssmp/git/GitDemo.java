@@ -10,6 +10,7 @@ public class GitDemo {
         System.out.println("shabi4");
         System.out.println("host-fix test");
         System.out.println("杨俊是个傻逼");
+        System.out.println("杨俊是个傻逼2");
     }
 
 }
